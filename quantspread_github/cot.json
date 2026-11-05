@@ -1,0 +1,55 @@
+{
+  "aggiornato": "2026-11-05T22:33:48+00:00",
+  "fonte": "CFTC Disaggregated Futures Only",
+  "mercati": {
+    "WTI Crude Oil": {
+      "data_report": "2026-10-27",
+      "open_interest": 1886280,
+      "speculatori_netto": 31128,
+      "speculatori_variazione": -5059,
+      "commerciali_netto": 366392
+    },
+    "Gold": {
+      "data_report": "2026-10-27",
+      "open_interest": 396810,
+      "speculatori_netto": 105562,
+      "speculatori_variazione": 1356,
+      "commerciali_netto": -9574
+    },
+    "Corn": {
+      "data_report": "2026-10-27",
+      "open_interest": 1859085,
+      "speculatori_netto": 81113,
+      "speculatori_variazione": -83310,
+      "commerciali_netto": -462345
+    },
+    "Wheat (CBOT)": {
+      "data_report": "2026-10-27",
+      "open_interest": 525558,
+      "speculatori_netto": -74606,
+      "speculatori_variazione": -22601,
+      "commerciali_netto": -18361
+    },
+    "Soybeans": {
+      "data_report": "2026-10-27",
+      "open_interest": 979414,
+      "speculatori_netto": 193781,
+      "speculatori_variazione": -27544,
+      "commerciali_netto": -255393
+    },
+    "Sugar #11": {
+      "data_report": "2026-10-27",
+      "open_interest": 1205131,
+      "speculatori_netto": 237711,
+      "speculatori_variazione": -26819,
+      "commerciali_netto": -356955
+    },
+    "Lean Hogs": {
+      "data_report": "2026-10-27",
+      "open_interest": 307296,
+      "speculatori_netto": -51646,
+      "speculatori_variazione": -4833,
+      "commerciali_netto": 1069
+    }
+  }
+}
