@@ -1,0 +1,22 @@
+name: Aggiorna CFTC
+on:
+  schedule:
+    - cron: "0 22 * * 5"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scarica_cftc.py
+      - name: Salva se cambiato
+        run: |
+          git config user.name "cot-bot"
+          git config user.email "cot-bot@users.noreply.github.com"
+          git add cot.json
+          git diff --cached --quiet || (git commit -m "Aggiorna COT" && git push)
