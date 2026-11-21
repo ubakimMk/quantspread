@@ -1,55 +1,55 @@
 {
-  "aggiornato": "2026-11-14T01:55:05+00:00",
+  "aggiornato": "2026-11-21T02:56:19+00:00",
   "fonte": "CFTC Disaggregated Futures Only",
   "mercati": {
     "WTI Crude Oil": {
-      "data_report": "2026-11-03",
-      "open_interest": 1908732,
-      "speculatori_netto": 21728,
-      "speculatori_variazione": -9400,
-      "commerciali_netto": 369347
+      "data_report": "2026-11-17",
+      "open_interest": 1869789,
+      "speculatori_netto": 15814,
+      "speculatori_variazione": -9900,
+      "commerciali_netto": 385227
     },
     "Gold": {
-      "data_report": "2026-11-03",
-      "open_interest": 399169,
-      "speculatori_netto": 103614,
-      "speculatori_variazione": -1948,
-      "commerciali_netto": -8912
+      "data_report": "2026-11-17",
+      "open_interest": 407834,
+      "speculatori_netto": 102942,
+      "speculatori_variazione": -9399,
+      "commerciali_netto": -4591
     },
     "Corn": {
-      "data_report": "2026-11-03",
-      "open_interest": 1918622,
-      "speculatori_netto": 8795,
-      "speculatori_variazione": -72318,
-      "commerciali_netto": -411258
+      "data_report": "2026-11-17",
+      "open_interest": 1954229,
+      "speculatori_netto": -33862,
+      "speculatori_variazione": -11234,
+      "commerciali_netto": -372059
     },
     "Wheat (CBOT)": {
-      "data_report": "2026-11-03",
-      "open_interest": 534858,
-      "speculatori_netto": -87126,
-      "speculatori_variazione": -12520,
-      "commerciali_netto": -6500
+      "data_report": "2026-11-17",
+      "open_interest": 558414,
+      "speculatori_netto": -84836,
+      "speculatori_variazione": -3786,
+      "commerciali_netto": -7813
     },
     "Soybeans": {
-      "data_report": "2026-11-03",
-      "open_interest": 959576,
-      "speculatori_netto": 142727,
-      "speculatori_variazione": -51054,
-      "commerciali_netto": -221446
+      "data_report": "2026-11-17",
+      "open_interest": 997948,
+      "speculatori_netto": 113630,
+      "speculatori_variazione": -3956,
+      "commerciali_netto": -213425
     },
     "Sugar #11": {
-      "data_report": "2026-11-03",
-      "open_interest": 1191088,
-      "speculatori_netto": 223784,
-      "speculatori_variazione": -13927,
-      "commerciali_netto": -343227
+      "data_report": "2026-11-17",
+      "open_interest": 1144499,
+      "speculatori_netto": 187043,
+      "speculatori_variazione": -8758,
+      "commerciali_netto": -302937
     },
     "Lean Hogs": {
-      "data_report": "2026-11-03",
-      "open_interest": 324455,
-      "speculatori_netto": -59072,
-      "speculatori_variazione": -7426,
-      "commerciali_netto": 447
+      "data_report": "2026-11-17",
+      "open_interest": 320066,
+      "speculatori_netto": -63323,
+      "speculatori_variazione": -1087,
+      "commerciali_netto": 3843
     }
   }
 }
